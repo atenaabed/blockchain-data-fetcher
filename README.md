@@ -1,4 +1,4 @@
-# blockchain-data-fetcher
+
 # Blockchain Data Fetcher
 
 This repository contains a collection of scripts that fetch blockchain data from multiple sources.  
